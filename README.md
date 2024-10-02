@@ -79,7 +79,7 @@ After completing a scan, UC01 gives you the option to save the results to a file
 
 ## 🔧 Contributing
 
-We welcome contributions! If you'd like to improve UC01, feel free to submit a pull request. Please make sure to follow the code of conduct outlined in our contribution guide.
+We welcome contributions! If you'd like to improve UC01, feel free to submit a pull request.
 
 ## 📜 License
 
