@@ -1,0 +1,9 @@
+whois
+dnspython
+socket
+requests
+python-nmap
+asyncio
+validators
+tqdm
+colorama
