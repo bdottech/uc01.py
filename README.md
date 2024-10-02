@@ -2,6 +2,8 @@
 
 Welcome to **UC01**, your ultimate Python-based tool for comprehensive network security scanning and auditing! Whether you're a system administrator or a cybersecurity enthusiast, UC01 helps you gather critical information about domains, IP addresses, and network services.
 
+⚠️ Use only for educational purposes ⚠️
+
 ## 🌟 Features
 
 UC01 offers a wide range of network security analysis tools:
