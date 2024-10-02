@@ -22,6 +22,18 @@ Make sure you have Python installed on your system. Follow these steps to set up
 - Python 3.x
 - Pip (Python package installer)
 
+### Download
+
+Run the following command to download :
+
+```bash
+git clone https://github.com/bdottech/uc01.py.git
+```
+
+```bash
+cd uc01.py
+```
+
 ### Install Required Libraries
 
 Run the following command to install the necessary dependencies:
